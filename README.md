@@ -47,13 +47,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]([Add screenshot 1 here with proper name](https://github.com/controlus-hub/tink-her-hack-3-temp/blob/main/Screenshot%20(1).png))
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2]([Add screenshot 2 here with proper name](https://github.com/controlus-hub/tink-her-hack-3-temp/blob/main/Screenshot%20(2).png))
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3]([Add screenshot 3 here with proper name](https://github.com/controlus-hub/tink-her-hack-3-temp/blob/main/Screenshot%20(3).png))
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -91,9 +91,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Nandana : coding
+- sandra : idea implimentation
+- akhi : designing
 
 ---
 Made with ❤️ at TinkerHub
