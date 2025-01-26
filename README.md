@@ -1,23 +1,23 @@
-# [Project Name] 🎯
+# smart pet care system🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: control us
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Nandana Dileep - sngce
+- Member 2: Sandra Prince - sngce
+- Member 3: Akhi Praveen - sngce
 
-### Hosted Project Link
-[mention your project hosted project link here]
+### Hosted Project Linkloo
+[https://calm-maamoul-d2caf2.netlify.app/)]
 
 ### Project Description
-[2-3 lines about what your project does]
+user-friendly website for pet owners to monitor their pets activity,health .The system utilizes advanced technologies
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+with the rise ofsmart home pet are becoming increasingly demanding of their human servents,they require precise temprature control gourmet meal and entertainment on demand
 
 ### The Solution
 [How are you solving it? Keep it fun!]
@@ -84,8 +84,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[[Add your demo video link here]
+*Explain what the video demonstrates*](https://www.loom.com/share/b6832d7dafaf48438a6ac3766b7252a0)
 
 # Additional Demos
 [Add any extra demo materials/links]
